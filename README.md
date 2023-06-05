@@ -42,6 +42,27 @@ Porcentagem funcionário: 8.1%
 Funcionário Pedro alugou o produto OCULOS_VR por 4h.
 Pedro vai receber uma comissão no valor de R$31,20 pelo aluguel do produto OCULOS_VR.
 
+JSON Request para criar um pedido:
+```bash
+{
+  "userName": "João",
+  "productType": "CAMERA",
+  "timeHour": 16
+}
+```
+JSON Response ao solicitar um pedido pelo userName:
+```bash
+[
+    {
+        "productType": "CAMERA",
+        "timeHour": 16,
+        "productValue": 4000,
+        "productTotal": 64000,
+        "userAmount": 6592
+    }
+]
+```
+
 ## Testes Unitarios
 Boas práticas de testes unitários foram empregadas, utilizando os frameworks JUnit e Mockito para construir e executar os testes. Isso inclui a criação de cenários de testes abrangentes para cobrir uma gama de situações, o uso de asserções para verificar os resultados dos testes e a criação de mocks de dependências para isolar o código sob teste.
 
