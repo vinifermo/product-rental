@@ -56,9 +56,9 @@ JSON Response ao solicitar um pedido pelo userName:
     {
         "productType": "CAMERA",
         "timeHour": 16,
-        "productValue": 4000,
-        "productTotal": 64000,
-        "userAmount": 6592
+        "productValue": 400.0,
+        "productTotal": 6400.0,
+        "userAmount": 659.2
     }
 ]
 ```
