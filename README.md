@@ -42,8 +42,8 @@ Porcentagem funcionário: 8.1%
 Funcionário Pedro alugou o produto OCULOS_VR por 4h.
 Pedro vai receber uma comissão no valor de R$31,20 pelo aluguel do produto OCULOS_VR.
 
-##Testes Unitarios
+## Testes Unitarios
 Foram adotadas boas práticas de testes unitarios com a utilizações do framework JUNIT e Mockito.
 
-##Tecnologias
+## Tecnologias
 Java 17, Spring Boot, Spring Data JPA, JUnit, Mockito, Banco de dados H2, FlyWay para versionamento do banco de dados.
