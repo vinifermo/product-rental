@@ -2,7 +2,7 @@
 
 Esse foi um desafio que envolveu a criação de uma aplicação Java (Spring Boot) foram adotados conceitos fundamentais da linguagem Java e boas práticas de programação.
 
-##Durante o desenvolvimento, foram adotadas boas práticas de programação, como Clean Code e tratamento de exceções. Certifique-se de seguir essas práticas ao trabalhar com o código.
+## Durante o desenvolvimento, foram adotadas boas práticas de programação, como Clean Code e tratamento de exceções. Certifique-se de seguir essas práticas ao trabalhar com o código.
 
 ## Cenário: A empresa XYZ trabalha com aluguel de produtos que são utilizados em uma loja de eletronicos.
 
