@@ -43,7 +43,7 @@ Funcionário Pedro alugou o produto OCULOS_VR por 4h.
 Pedro vai receber uma comissão no valor de R$31,20 pelo aluguel do produto OCULOS_VR.
 
 ## Testes Unitarios
-Foram adotadas boas práticas de testes unitarios com a utilizações do framework JUNIT e Mockito.
+Boas práticas de testes unitários foram empregadas, utilizando os frameworks JUnit e Mockito para construir e executar os testes. Isso inclui a criação de cenários de testes abrangentes para cobrir uma gama de situações, o uso de asserções para verificar os resultados dos testes e a criação de mocks de dependências para isolar o código sob teste.
 
 ## Tecnologias
 Java 17, Spring Boot, Spring Data JPA, JUnit, Mockito, Banco de dados H2, FlyWay para versionamento do banco de dados.
